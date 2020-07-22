@@ -1,4 +1,5 @@
-# Last line is automatically returned
+# Methods
+## Last line is automatically returned
 ## No explicit return type needed
 
 def scoring(x, y)

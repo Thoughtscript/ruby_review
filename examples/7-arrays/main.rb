@@ -37,3 +37,9 @@ array_nine.insert(1, "d")
 array_nine.push("e")
 array_nine.unshift("f")
 puts array_nine
+
+# Math
+p [1,2,3] * 3
+## [1,2,3,1,2,3,1,2,3]
+p [1,2,3] + [4,5]
+## [1,2,3,4,5]
