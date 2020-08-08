@@ -15,7 +15,7 @@ Methods-entities:
 Collection-entities:
 
 1. **Hashes** are the operative key-value pair data structure
-1. **Arrays** and **Ranges** constitute the other **enumerables**/**iterables**
+1. **Arrays** and **ranges** constitute the other **enumerables**/**iterables**
 
 Type-entities:
 
@@ -24,7 +24,7 @@ Type-entities:
 
 Control-flow:
 
-1. Dominated by **Guards**
+1. Dominated by **guards**
 1. `catch` keyword is replaced by `rescue` keyword
 
 Access and Visibility:
